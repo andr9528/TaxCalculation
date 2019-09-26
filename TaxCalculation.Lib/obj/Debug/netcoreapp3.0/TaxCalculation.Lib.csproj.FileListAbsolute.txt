@@ -1,0 +1,8 @@
+C:\Code\TaxCalculation\TaxCalculation.Lib\bin\Debug\netcoreapp3.0\TaxCalculation.Lib.deps.json
+C:\Code\TaxCalculation\TaxCalculation.Lib\bin\Debug\netcoreapp3.0\TaxCalculation.Lib.dll
+C:\Code\TaxCalculation\TaxCalculation.Lib\bin\Debug\netcoreapp3.0\TaxCalculation.Lib.pdb
+C:\Code\TaxCalculation\TaxCalculation.Lib\obj\Debug\netcoreapp3.0\TaxCalculation.Lib.csprojAssemblyReference.cache
+C:\Code\TaxCalculation\TaxCalculation.Lib\obj\Debug\netcoreapp3.0\TaxCalculation.Lib.AssemblyInfoInputs.cache
+C:\Code\TaxCalculation\TaxCalculation.Lib\obj\Debug\netcoreapp3.0\TaxCalculation.Lib.AssemblyInfo.cs
+C:\Code\TaxCalculation\TaxCalculation.Lib\obj\Debug\netcoreapp3.0\TaxCalculation.Lib.dll
+C:\Code\TaxCalculation\TaxCalculation.Lib\obj\Debug\netcoreapp3.0\TaxCalculation.Lib.pdb
