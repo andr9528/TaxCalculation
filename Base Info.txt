@@ -1,3 +1,5 @@
+https://cucumber.io/docs/gherkin/reference/
+
 Imagine we have been given a task to add an ‘include VAT and delivery cost to the total price of the customer basket’ feature to an existing ecommerce project with following set of business rules:
 
 VAT is 20%
@@ -7,3 +9,6 @@ Delivery cost for medium basket (more than £20) is £2
 Can you use this information to deliver a working feature? Of course you can! But what are the chances that you will get it wrong or that you have not fully understood what these rules mean? For example, these rules do not specify whether to add VAT before delivery cost to the basket total or after. How should you handle a situation where the basket delivery cost is exactly £20? What happens if there are multiple products in the basket?
 
 None of these questions are fully answered in the business rules or the feature description itself which creates ambiguity, and therefore misunderstanding. But what if, in addition to these three business rules, we provide a set of very simple examples on how the application will behave with them?
+
+Opgaven
+For ovenstående: Skriv en User Story med scenarier skrevet i Gherkin
