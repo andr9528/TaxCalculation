@@ -1,0 +1,13 @@
+Feature: Calculate Final Price
+
+Scenario: Price of goods in basket is less than 20 
+	Given a basket of goods
+		And a total price less than 20
+	Then multiply total price by 1.2
+		And add 3 to the result.
+
+Scenario: Price of goods in basket is more than 20 or equal to
+	Given a basket of goods
+		And a total price more than 20 or equal
+	Then multiply total price by 1.2
+		And add 3 to the result.

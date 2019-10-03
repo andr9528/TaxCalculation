@@ -7224,8 +7224,9 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\André\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\andre\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -7233,14 +7234,15 @@
       "projectUniqueName": "C:\\Code\\TaxCalculation\\TaxCalculation.Test\\TaxCalculation.Test.csproj",
       "projectName": "TaxCalculation.Test",
       "projectPath": "C:\\Code\\TaxCalculation\\TaxCalculation.Test\\TaxCalculation.Test.csproj",
-      "packagesPath": "C:\\Users\\André\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
       "outputPath": "C:\\Code\\TaxCalculation\\TaxCalculation.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\André\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -7313,7 +7315,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-preview8-013656\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-rc1-014190\\RuntimeIdentifierGraph.json"
       }
     }
   }
