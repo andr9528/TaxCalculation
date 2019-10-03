@@ -1,3 +1,15 @@
+Jeg ser to scenarier ud fra beskrivelsen vi har fået,
+
+- En under 20£
+- En over/lige på 20£ 
+
+Rækkefølgen af VAT og leverance kost, har jeg taget fra sætningen "Include VAT and delivery cost to the total price of the customer basket". Da VAT bliver nævnt først, tager jeg den første, også lægger jeg den faste leverance kost til.
+
+Valget at tage 20£ med i udregningen for en mellem kurv, er udfra tanken at firmaet bag har støre interesse i den offentlige mening om dem, end profit. Denne tænke stammer fra at deres leverance pris falder jo mere man køber.
+ - (Tak for at handle mere ved os, som tak betaller vi mere af leverance prisen)
+
+
+
 Feature: Calculate Final Price
 
 Scenario: Price of goods in basket is less than 20 
